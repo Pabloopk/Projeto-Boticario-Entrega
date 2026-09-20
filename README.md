@@ -1,6 +1,12 @@
-# O Boticário Brussels — estudo de caso
-![Preview do projeto](./Captura%20de%20tela%202026-09-20%20091929.png)
+<h1>
+  <a href="https://marilia-boticario.vercel.app">
+    O Boticário Brussels — estudo de caso
+  </a>
+</h1>
 
+<p align="center">
+  <img src="./boticario-brussels-preview.png" alt="O Boticário Brussels" width="900">
+</p>
 
 **Vitrine multilíngue com catálogo extraído de PDF, painel próprio e conversão por WhatsApp.**
 
