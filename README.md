@@ -1,4 +1,6 @@
 # O Boticário Brussels — estudo de caso
+![Uploading image.png…]()
+
 
 **Vitrine multilíngue com catálogo extraído de PDF, painel próprio e conversão por WhatsApp.**
 
