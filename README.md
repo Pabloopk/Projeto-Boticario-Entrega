@@ -5,7 +5,7 @@
 </h1>
 
 <p align="center">
-  <img src="./boticario-brussels-preview.png" alt="O Boticário Brussels" width="900">
+  <img src="./Captura de tela 2026-09-20 091929.png" alt="O Boticário Brussels" width="900">
 </p>
 
 **Vitrine multilíngue com catálogo extraído de PDF, painel próprio e conversão por WhatsApp.**
